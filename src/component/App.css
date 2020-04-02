@@ -1,0 +1,15 @@
+.header-text {
+  font-size: 25px;
+  background-color: #6cb43a;
+  color: white;
+}
+
+.content {
+  background-color: #80808069;
+}
+
+.btn-submit {
+  color: #fff;
+  background-color: #6cb43a;
+  border-color: #6cb43a;
+}
